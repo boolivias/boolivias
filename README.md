@@ -15,9 +15,9 @@ Sou um entusiasta da tecnologia e estudante de ciências da computação na UFSC
 
 ###### Sobre
 ❤️ Sou de São Paulo - SP, mais precisamente no bairro Morro Doce, onde nasci, cresci e levo comigo.
-<font size="2">*Curiosidade: Um [documentário](https://www.youtube.com/watch?v=wpoFE4GJhhY) sobre a história do Morro Doce, um bairro construido pelos moradores.*</font>
-📫 Atualmente moro em Sorocaba - SP.
-💼 Realizando pequenos projetos com fins de estudos e aguardando início de hackathons.
+<font size="2">*Curiosidade: Um [documentário](https://www.youtube.com/watch?v=wpoFE4GJhhY) sobre a história do Morro Doce, um bairro construido pelos moradores.*</font></br>
+📫 Atualmente moro em Sorocaba - SP.</br>
+💼 Realizando pequenos projetos com fins de estudos e aguardando início de hackathons.</br>
 
 ![boolivias github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=boolivias)
 
